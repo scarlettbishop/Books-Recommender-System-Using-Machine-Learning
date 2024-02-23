@@ -73,6 +73,7 @@ This is a streamlit web application that can recommend various kinds of similar 
 6 . Get top k rows from the sorted array
 
  reference/credit: Author: Bappy Ahmed
+ This entire project was taken from him for educational purposes.
 
 
 
